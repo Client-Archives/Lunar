@@ -35,16 +35,3 @@ With this I am not distributing the source code of the client, nor am I intendin
 - Radio(1.8, 1.7)
 - Net Graph(1.8)<br>
 **Disclaimer: Lunar 1.8 has the hit delay removed.**
-
-## Screenshots
-### 1.8
-Main Menu:
-![Main Menu](https://github.com/oyMarcel/OldLunarClient/blob/main/assets/1.8/mainmenu.png)
-Mod Menu:
-![Mod Menu](https://github.com/oyMarcel/OldLunarClient/blob/main/assets/1.8/modmenu.png)
-
-### 1.7
-Main Menu:
-![Main Menu](https://github.com/oyMarcel/OldLunarClient/blob/main/assets/1.7/mainmenu.png)
-Mod Menu:
-![Mod Menu](https://github.com/oyMarcel/OldLunarClient/blob/main/assets/1.7/modmenu.png)
